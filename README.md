@@ -6,7 +6,7 @@ stone305585@live.com
 
 ## hello_world
 
-A new Flutter project.适合初学者的Dart Demo，会逐步完善成Flutter都demo；
+A new Flutter project.适合初学者的Dart Demo，个人是Android开发，所以会逐步完善成Flutter的App demo；
 
 ## 主要参考
 https://flutter-io.cn/
