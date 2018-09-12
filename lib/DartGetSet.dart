@@ -9,6 +9,8 @@ void main(){
 ///
 /// dart的get set方法
 ///
+/// @author stone305585@live.com
+/// @date 2018-09-12 13:02:08
 class Rectangle {
   int left;
   int top;

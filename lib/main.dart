@@ -1,5 +1,9 @@
 import 'package:flutter/material.dart';
-
+///
+/// flutter的app
+///
+/// @author stone305585@live.com
+/// @date 2018-09-12 13:02:08
 void main() => runApp(new FlutterApp());
 
 class FlutterApp extends StatelessWidget {
@@ -19,7 +23,7 @@ class FlutterApp extends StatelessWidget {
         // counter didn't reset back to zero; the application is not restarted.
         primarySwatch: Colors.red,
       ),
-      home: new MyHomePage(title: 'Flutter Demo Home Page'),
+      home: new MyHomePage(title: '2018的股市'),
     );
   }
 }
@@ -157,7 +161,10 @@ class _MyHomePageStateBeef extends State<MyHomePage> {
     );
     //中间的内容
     Text subTitle = new Text(
-        '去超市买两块上好的牛排也不是很贵，至少比在外面吃要便宜很多。用黑胡椒碎、百里香、鼠尾草、迷迭香等混合成的香草料腌制提香味，大蒜、洋葱末去腥提鲜，柠檬汁去腥提味；在家也能打造出和西餐厅一样美味的黑椒香草牛排。咱也喝点红酒，看着电视，吃着牛排，感觉也不错呀！',
+        '简单点，去赌场、赌局，看人性最容易了。'
+            '越输压的越大，越输越要买庄。越赢越胆小，越输越胆大，甚至孤注一掷。人性就是贪婪和恐惧的，这是天性。'
+            '我们要做的就是控制并尽可能地持续坚持住。至于状态低迷，调节的问题。个人都有不同的方法。'
+            '我或者喜欢爬无人的后山，一个人静静地放松下，或者用一次次的登顶来激发斗志',
         textAlign: TextAlign.center,
         style: new TextStyle(
           fontFamily: 'Georgia',

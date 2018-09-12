@@ -6,6 +6,8 @@ import 'package:flutter/widgets.dart';
 /// 又或者是随着时间的推移而变化，比如数据Feed会更新状态。这时我们应该选择使用StatefulWidget创建一个有状态控件。
 ///2:如果自定义的控件仅依赖于对象本身的配置信息，仅仅是用于展示给定的信息。那我们应该选择使用
 /// StatelessWidget创建一个无状态控件。
+/// @author stone305585@live.com
+/// @date 2018-09-12 13:02:08
 ///
 class Board extends StatelessWidget {
   const Board({

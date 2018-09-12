@@ -4,6 +4,9 @@ import 'dart:math';
 ///
 /// Shape工厂方法，使用implements
 ///
+/// @author stone305585@live.com
+/// @date 2018-09-12 13:02:08
+///
 abstract class Shape {
 
   factory Shape(String type) {
